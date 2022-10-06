@@ -24,10 +24,10 @@ public class OperacionesBasicas {
         System.out.println("El resultado de la resta es: "+(num1-num2));
         
         //Multiplicacion
-        System.out.println("El resultado de la multiplicacion es: "+(num1*num2));
+        System.out.println("El resultado de la multiplicación es: "+(num1*num2));
         
-        //Division
-        System.out.println("El resultado de la multiplicacion es: "+(num1/num2));
+        //División 
+        System.out.println("El resultado de la división es: "+(num1/num2));
         
     }
     
